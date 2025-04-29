@@ -14,9 +14,9 @@ const ApiComponent = () => {
         method: "GET",
         headers: {
           "mode": "no-cors",
-          "SUBSCRIPTION_KEY": "56c40d89-eb89-4e9f-b809-a90ab46ff86e",
-          "USER": "22979455v",
-          "PASSWORD": "aL7smqq7AM",
+          "SUBSCRIPTION_KEY": "56c40-X-X-46ff86e",
+          "USER": "X",
+          "PASSWORD": "X",
         },
       });
 
